@@ -16,7 +16,7 @@ const paragraphs = [
   },
   {
     emoji: "💻",
-    text: "Bazen de tam o sırada ben bilgisayarın başındayım. Elimde iş, kafamda başka bir şey. Sen konuşuyorsun, ben “hı hı” diyorum ama yarım kalmış oluyor. Sonra sessizlik… Çalıştığım işten dolayı anlattığın şeylere ben o yoğunluktan sana “kaldığın yerden devam et” demeyi unutuyorum. bende sıkıldım her an müsait olamıyorum çoğu zaman bu işten çok sıkıldım zaten aşkımm en kısa sürede istifa edeceğim derslere de çalışmam lazımmm seninle aynı şehirde olmam lazım aynı evde hatta :))))",
+    text: "Çalıştığım işten dolayı anlattığın şeylere ben o yoğunluktan sana “kaldığın yerden devam et” demeyi unutuyorum unutmak istemiyorum çok özür dilerim birtanemmm :// bende sıkıldım her an müsait olamıyorum çoğu zaman bu işten çok sıkıldım zaten aşkımm en kısa sürede istifa edeceğim derslere de çalışmam lazımmm seninle aynı şehirde olmam lazım aynı evde hatta :))))",
   },
   {
     emoji: "💔",

@@ -97,11 +97,22 @@ export default function GiftPageContent() {
         >
           📷 Anılarımız
         </motion.h2>
-        <div className="mx-auto grid max-w-4xl grid-cols-2 gap-3 sm:gap-4 md:grid-cols-4">
-          {[0, 1, 2, 3].map((i) => (
-            <PhotoPlaceholder key={i} index={i} />
+        <motion.div className="mx-auto grid max-w-4xl grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 lg:grid-cols-5">
+          {[
+            { src: "/images/1.jpg", alt: "Anımız 1" },
+            { src: "/images/2.jpg", alt: "Anımız 2" },
+            { src: "/images/3.jpg", alt: "Anımız 3" },
+            { src: "/images/4.jpg", alt: "Anımız 4" },
+            { src: "/images/5.jpg", alt: "Anımız 5" },
+          ].map((photo, i) => (
+            <PhotoPlaceholder
+              key={photo.src}
+              index={i}
+              src={photo.src}
+              alt={photo.alt}
+            />
           ))}
-        </div>
+        </motion.div>
       </section>
 
       {/* Scroll Sections */}
@@ -176,11 +187,17 @@ export default function GiftPageContent() {
         </motion.p>
 
         <motion.div
-          className="mt-6"
+          className="mt-6 flex flex-col items-center gap-3"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
         >
+          <Link
+            href="/beni-seviyor-musun"
+            className="glow-button rounded-full border border-pink-300/30 bg-pink-500/15 px-6 py-2.5 text-sm text-pink-100 transition-all hover:bg-pink-500/25"
+          >
+            Beni seviyor musun? 💕
+          </Link>
           <Link
             href="/"
             className="text-sm text-pink-300/50 transition-colors hover:text-pink-300"

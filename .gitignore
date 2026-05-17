@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ham fotoğraf dosyaları (optimize edilmiş .jpg kullanılıyor)
+public/images/*.DNG
+public/images/*.dng
+
+.vercel

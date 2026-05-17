@@ -53,9 +53,6 @@ export default function PhotoPlaceholder({
           <p className="mt-3 text-center text-sm text-pink-200/60">
             Fotoğraf {index + 1}
           </p>
-          <p className="mt-1 text-center text-xs text-pink-200/40">
-            public/images/ klasörüne ekle
-          </p>
         </motion.div>
       )}
 

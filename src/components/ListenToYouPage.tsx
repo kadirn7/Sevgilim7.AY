@@ -12,31 +12,15 @@ const paragraphs = [
   },
   {
     emoji: "☕",
-    text: "Bazen komşunun kuzeninin iş yerindeki dramından bahsedersin. Tanımayacağım, belki bir daha duymayacağım insanların küçük kesitleri… Sen de farkındasın, bazen “bu ne alaka” diye gülümsersin kendi kendine. Ama yine de anlatırsın. Çünkü paylaşmak senin dilin.",
+    text: "Bazen komşunun kızı başka bir tanıdığın erkeğiyle nişanlanacaktır ama erkek razı değildir ve başka bir kızla sevgilidir ama ailesi ayrılırlar diye kızı yedekte tutuyordur bunu siz bilirsiniz bu durum sana garip gelir ve bana anlatmak istersin :)) çok seviyorumm seni bir tanemmm anlattttt sabaha kadar dinlerim ben seni :))) Bana bunları anlatmayı sevdiğini biliyorum paylaşmayı seviyorsun bende dinlemeyi seviyorummm tabiki senin gibi anlatacak daha çok şeyim olsa ve anlatabilsem fırsat buldukça anlatmaya çalışıyorummmm",
   },
   {
     emoji: "💻",
-    text: "Bazen de tam o sırada ben bilgisayarın başındayım. Elimde iş, kafamda başka bir şey. Sen konuşuyorsun, ben “hı hı” diyorum ama yarım kalmış oluyor. Sonra sessizlik… Ve ben o yoğunluktan sana “kaldığın yerden devam et” demeyi unutuyorum.",
+    text: "Bazen de tam o sırada ben bilgisayarın başındayım. Elimde iş, kafamda başka bir şey. Sen konuşuyorsun, ben “hı hı” diyorum ama yarım kalmış oluyor. Sonra sessizlik… Çalıştığım işten dolayı anlattığın şeylere ben o yoğunluktan sana “kaldığın yerden devam et” demeyi unutuyorum. bende sıkıldım her an müsait olamıyorum çoğu zaman bu işten çok sıkıldım zaten aşkımm en kısa sürede istifa edeceğim derslere de çalışmam lazımmm seninle aynı şehirde olmam lazım aynı evde hatta :))))",
   },
   {
-    emoji: "😔",
-    text: "Sonra sen de utangaçça susuyorsun. Sanki fazla anlatmışsın gibi. Oysa hiç fazla değil. Hiçbir zaman fazla değil.",
-  },
-  {
-    emoji: "❤️",
-    text: "Elimden gelse seni bir ömür dinlerim. Hiç sıkılmadan. Hiç yorulmadan. Çünkü senin sesine hastayım — o ton, o kahkaha, o “bak şimdi anlatacağım” heyecanı… Hepsi bana ev gibi.",
-  },
-  {
-    emoji: "🌙",
-    text: "O “alakasız” dediğin şeyler bile bende kalıyor aslında. Kimin nereye taşındığını, kimin ne yediğini, hangi gün ne yaşandığını… Çünkü onları sen anlatıyorsun. Ve ben seni seviyorum.",
-  },
-  {
-    emoji: "🕊️",
-    text: "Beni affet, bazen yarım bıraktığım için. Bazen dinlemediğim gibi göründüğüm için. Ama bil ki: Sen konuşurken dünyam duruyor. Sadece bazen elimden tutamıyorum o anı — ama seni tutuyorum. Her zaman.",
-  },
-  {
-    emoji: "💕",
-    text: "Bundan sonra daha çok soracağım: “Nerede kalmıştık aşkım?” Çünkü senin hikâyelerin — ister büyük ister küçük, ister unutulacak ister sonsuza dek hatırlanacak — benim için hep değerli.",
+    emoji: "💔",
+    text: "Aşkımmm senden özür diliyorum çoğu verdiğim sözleri tutamadım aşkımm çok üzgünümmmm verdiğim en basit şınav sayısını bile günlerde tuturamadım zayıflama kısmını tutturamadım birtanemmm elimden geldiğince kendimi düzelteceğimmm seni çokkk seviyorumm",
   },
 ];
 

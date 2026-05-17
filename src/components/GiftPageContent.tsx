@@ -193,8 +193,14 @@ export default function GiftPageContent() {
           viewport={{ once: true }}
         >
           <Link
+            href="/seni-dinliyorum"
+            className="glow-button rounded-full border border-pink-300/30 bg-purple-500/15 px-6 py-2.5 text-sm text-pink-100 transition-all hover:bg-purple-500/25"
+          >
+            Seni dinlemek istiyorum 🎧
+          </Link>
+          <Link
             href="/beni-seviyor-musun"
-            className="glow-button rounded-full border border-pink-300/30 bg-pink-500/15 px-6 py-2.5 text-sm text-pink-100 transition-all hover:bg-pink-500/25"
+            className="rounded-full border border-pink-300/20 bg-pink-500/10 px-6 py-2.5 text-sm text-pink-200/80 transition-all hover:bg-pink-500/20"
           >
             Beni seviyor musun? 💕
           </Link>
